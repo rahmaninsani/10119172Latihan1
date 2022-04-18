@@ -1,0 +1,32 @@
+<!--
+    NIM     : 10119172
+    Nama    : Rahman Insani
+    Kelas   : IF-5
+
+    Minggu, 17 April 2022
+-->
+
+<resources>
+    <string name="app_name">10119172Latihan1</string>
+    <string name="company_name">DigiTeam</string>
+    <string name="company_motto1">Digital Together Everyone Achieve More</string>
+    <string name="company_motto2">Jabar Digital Service</string>
+    <string name="user_name">Dias Eka Fredianto, S.Kom, B.IT</string>
+    <string name="user_profession">UI Designer</string>
+    <string name="working_hours_header">Jam Kerja Bulan Ini</string>
+    <string name="working_hours_description">Jam kerja kamu bulan ini: 130.53 Jam</string>
+    <string name="working_hours_number">130.53 JAM</string>
+    <string name="min_working_hours_desc">Batas Minimum Jam Kerja 170 jam/bulan</string>
+    <string name="button_checkin">Checkin</string>
+    <string name="button_create_laporan">Buat Laporan</string>
+    <string name="your_report_header">Laporan Kamu</string>
+    <string name="march">Maret</string>
+    <string name="april">April</string>
+    <string name="menu1">Izin</string>
+    <string name="menu2">Kehadiran</string>
+    <string name="menu3">Laporan</string>
+    <string name="menu4">Agenda</string>
+    <string name="menu5">Booking</string>
+    <string name="menu6">Wiki</string>
+
+</resources>

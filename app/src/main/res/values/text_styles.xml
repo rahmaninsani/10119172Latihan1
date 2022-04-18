@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+    NIM     : 10119172
+    Nama    : Rahman Insani
+    Kelas   : IF-5
+
+    Minggu, 17 April 2022
+-->
+
+<resources>
+    <style name="TextRobotoMedium16Black" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">@font/roboto_medium</item>
+        <item name="android:textSize">@dimen/font16</item>
+        <item name="lineHeight">@dimen/font22</item>
+        <item name="android:textColor">@color/neutralGray900</item>
+    </style>
+
+    <style name="TextLatoRegular12Gray" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">@font/lato_regular</item>
+        <item name="android:textSize">@dimen/font12</item>
+        <item name="lineHeight">@dimen/font18</item>
+        <item name="android:textColor">@color/neutralGray600</item>
+    </style>
+
+    <style name="TextRobotoRegular14Gray" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">@font/roboto_regular</item>
+        <item name="android:textSize">@dimen/font14</item>
+        <item name="lineHeight">@dimen/font20</item>
+        <item name="android:textColor">@color/neutralGray600</item>
+    </style>
+
+    <style name="TextRobotoMedium20Black" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">@font/roboto_medium</item>
+        <item name="android:textSize">@dimen/font20</item>
+        <item name="lineHeight">@dimen/font26</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="TextRobotoMedium14Blue" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">@font/roboto_medium</item>
+        <item name="android:textSize">@dimen/font14</item>
+        <item name="lineHeight">@dimen/font20</item>
+        <item name="android:textColor">@color/primerBlue900</item>
+    </style>
+
+    <style name="TextRobotoBold20" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">@font/roboto_bold</item>
+        <item name="android:textSize">@dimen/font20</item>
+        <item name="lineHeight">@dimen/font28</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="TextRobotoMedium16Green" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">@font/roboto_medium</item>
+        <item name="android:textSize">@dimen/font16</item>
+        <item name="lineHeight">@dimen/font22</item>
+        <item name="android:textColor">@color/primerGreen900</item>
+    </style>
+
+    <style name="TextRobotoRegular14Gray800" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">@font/roboto_regular</item>
+        <item name="android:textSize">@dimen/font14</item>
+        <item name="lineHeight">@dimen/font20</item>
+        <item name="android:textColor">@color/neutralGray800</item>
+    </style>
+
+</resources>
